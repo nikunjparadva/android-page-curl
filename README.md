@@ -18,4 +18,5 @@ By now it just switches between 2 images. But the idea is to render any view to 
 
 ## License
 
+
 The project is licensed under the [New BSD License](http://opensource.org/licenses/BSD-3-Clause) so you can use it in commercial projects too. If you are building something with it please send us a mail and we will add you into the showcase section.
